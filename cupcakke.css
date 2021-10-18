@@ -1,0 +1,63 @@
+body {
+  background-image:url("uh.gif");
+  background-size:1500px 2000px;
+  background-repeat: no-repeat;
+  backdrop-filter: blur(10px);
+  border:solid 10px #595959;
+}
+
+h1 {
+font-size:40px;
+color:white;
+font-weight:bold;
+font-family: 'Inconsolata', monospace;
+}
+
+h2 {
+color:#cf006e;
+font-size:30px;
+font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+font-family: 'Oswald', sans-serif;
+font-size:20px;
+}
+
+p.question {
+text-decoration:underline;
+font-size:40px;
+font-family: 'Bebas Neue', cursive;
+color:#7eff57;
+}
+
+p.answer {
+color:#ffec80;
+}
+
+a:link {
+color:#99fff9;
+}
+
+button {
+  background-color: #7eff57; /* Green */
+  border: none;
+  color: #8800ff;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none
+  display: inline-block;
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+  border:solid 10px #595959;
+}
+
+p {
+color:#EDBFC6;
+}
+
+span {
+color:white;
+font-size:50px;
+font-family: 'Inconsolata', monospace;
+}
