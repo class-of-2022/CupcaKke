@@ -1,8 +1,8 @@
 body {
   background-image:url("uh.gif");
-  background-size:1500px 2000px;
+  background-size:1500px 3000px;
   background-repeat: no-repeat;
-  backdrop-filter: blur(10px);
+  backdrop-filter: blur(5px);
   border:solid 10px #595959;
 }
 
@@ -60,4 +60,8 @@ span {
 color:white;
 font-size:50px;
 font-family: 'Inconsolata', monospace;
+}
+
+.Price {
+color:#ff988c;
 }
